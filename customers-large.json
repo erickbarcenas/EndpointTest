@@ -4,14 +4,14 @@
       "id": 1000,
       "name": "James Butt",
       "yearsOld": "24",
+      "gender": "Masculino"
       "country": {
         "name": "Algeria",
         "city": "test1"
       },
-      "banned": "true",
-      "representative": {
-        "name": "Ioni Bowcher",
-        "image": "ionibowcher.png"
+      "banned": {
+        "perfil": "true",
+        "gallery": "true"
       },
       "pack": "mensual",
       "role": "daddy",
