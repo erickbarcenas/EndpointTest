@@ -7,10 +7,13 @@
       "yearsOld": "24",
       "gender": "Masculino",
       "country": {
-        "name": "Algeria",
-        "city": "test1"
+        "name": "México",
+        "city": "Guadalajara"
       },
-      "banned": true,
+       "banned": {
+        "perfil": "True",
+        "gallery": "False"
+      }
       "pack": "mensual",
       "role": "daddy",
       "status": "unqualified",
