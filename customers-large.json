@@ -8,10 +8,7 @@
         "name": "Algeria",
         "city": "test1"
       },
-      "banned": {
-        "perfil": "true",
-        "gallery": "true"
-      },
+      "banned": "true",
       "representative": {
         "name": "Ioni Bowcher",
         "image": "ionibowcher.png"
