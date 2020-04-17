@@ -10,10 +10,7 @@
         "name": "México",
         "city": "Guadalajara"
       },
-       "banned": {
-        "perfil": "true",
-        "gallery": "false"
-      },
+      "banned": "true",
       "pack": "mensual",
       "role": "daddy",
       "status": "activo",
