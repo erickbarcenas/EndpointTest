@@ -3,6 +3,7 @@
     {
       "id": 1000,
       "name": "James Butt",
+      "imagePerfil": null,
       "yearsOld": "24",
       "gender": "Masculino"
       "country": {
@@ -10,8 +11,8 @@
         "city": "test1"
       },
       "banned": {
-        "perfil": "true",
-        "gallery": "true"
+        "perfil": true,
+        "gallery": true
       },
       "pack": "mensual",
       "role": "daddy",
