@@ -10,10 +10,7 @@
         "name": "Algeria",
         "city": "test1"
       },
-      "banned": {
-        "perfil": true,
-        "gallery": true
-      },
+      "banned": true,
       "pack": "mensual",
       "role": "daddy",
       "status": "unqualified",
