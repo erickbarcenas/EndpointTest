@@ -5,14 +5,14 @@
       "name": "James Butt",
       "imagePerfil": null,
       "yearsOld": "24",
-      "gender": "Masculino",
+      "gender": "masculino",
       "country": {
         "name": "México",
         "city": "Guadalajara"
       },
        "banned": {
-        "perfil": "True",
-        "gallery": "False"
+        "perfil": "true",
+        "gallery": "false"
       },
       "pack": "mensual",
       "role": "daddy",
