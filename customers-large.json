@@ -10,7 +10,7 @@
         "name": "México",
         "city": "Guadalajara"
       },
-      "banned": "true",
+      "banned": true,
       "pack": "mensual",
       "role": "daddy",
       "status": "activo",
@@ -27,7 +27,7 @@
         "name": "México",
         "city": "CDMX"
       },
-      "banned": "false",
+      "banned": false,
       "pack": "trimestral",
       "role": "daddy",
       "status": "inactivo",
@@ -44,7 +44,7 @@
         "name": "México",
         "city": "CDMX"
       },
-      "banned": "false",
+      "banned": false,
       "pack": "trimestral",
       "role": "daddy",
       "status": "inactivo",
