@@ -2,13 +2,13 @@
     "data": [
     {
       "id": 1000,
-      "name": "James Butt",
+      "name": "Luisa Key",
       "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
       "yearsOld": "24",
-      "gender": "masculino",
+      "gender": "femenino",
       "country": {
-        "name": "México",
-        "city": "Guadalajara"
+        "name": "España",
+        "city": "Madrid"
       },
       "banned": true,
       "pack": "mensual",
