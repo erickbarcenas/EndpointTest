@@ -1,9 +1,55 @@
 {
-    "columns": [
-    { "title": "Name", "field": "name" },
-],
     "data": [
-    { "name": "Mehmet" },
-    {"name": "Zerya Betül"}
-],
+    {
+      "id": 1000,
+      "name": "James Butt",
+      "imagePerfil": null,
+      "yearsOld": "24",
+      "gender": "masculino",
+      "country": {
+        "name": "México",
+        "city": "Guadalajara"
+      },
+      "banned": true,
+      "pack": "mensual",
+      "role": "daddy",
+      "status": "activo",
+      "date": "2015-09-13",
+      "activity": 17
+    }, 
+      {
+      "id": 1,
+      "name": "Erick",
+      "imagePerfil": null,
+      "yearsOld": "21",
+      "gender": "masculino",
+      "country": {
+        "name": "México",
+        "city": "CDMX"
+      },
+      "banned": false,
+      "pack": "trimestral",
+      "role": "daddy",
+      "status": "inactivo",
+      "date": "2015-09-13",
+      "activity": 17
+    } , 
+      {
+      "id": 11,
+      "name": "Iván",
+      "imagePerfil": null,
+      "yearsOld": "22",
+      "gender": "masculino",
+      "country": {
+        "name": "México",
+        "city": "CDMX"
+      },
+      "banned": false,
+      "pack": "trimestral",
+      "role": "daddy",
+      "status": "inactivo",
+      "date": "2015-09-13",
+      "activity": 17
+    }
+ ]
 }
