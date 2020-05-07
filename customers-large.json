@@ -4,15 +4,15 @@
       "id": 1000,
       "name": "Luisa Key",
       "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
-      "yearsOld": "24",
-      "gender": "femenino",
+      "yearsOld": 24,
+      "gender": 10,
       "country": {
         "name": "España",
         "city": "Madrid"
       },
-      "banned": true,
-      "pack": "mensual",
-      "role": "daddy",
+      "banned": 1,
+      "pack": 30,
+      "role": 14,
       "status": 1000,
       "date": "2015-09-13",
       "activity": 17
@@ -21,16 +21,16 @@
       "id": 1,
       "name": "Erick",
       "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
-      "yearsOld": "21",
-      "gender": "masculino",
+      "yearsOld": 21,
+      "gender": 5,
       "country": {
         "name": "México",
         "city": "CDMX"
       },
-      "banned": false,
-      "pack": "trimestral",
-      "role": "daddy",
-      "status": 900,
+      "banned": 0,
+      "pack": 90,
+      "role": 7,
+      "status": 500,
       "date": "2015-09-13",
       "activity": 17
     } , 
@@ -38,16 +38,34 @@
       "id": 11,
       "name": "Iván",
       "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
-      "yearsOld": "22",
-      "gender": "masculino",
+      "yearsOld": 22,
+      "gender": 14,
       "country": {
         "name": "México",
         "city": "CDMX"
       },
-      "banned": false,
-      "pack": "trimestral",
+      "banned": 0,
+      "pack": 150,
       "role": "daddy",
-      "status": 900,
+      "status": 500,
+      "date": "2015-09-13",
+      "activity": 17
+    },
+        , 
+      {
+      "id": 11,
+      "name": "Fantasma",
+      "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
+      "yearsOld": 25,
+      "gender": 7,
+      "country": {
+        "name": "México",
+        "city": "CDMX"
+      },
+      "banned": 0,
+      "pack": 120,
+      "role": 7,
+      "status": 1000,
       "date": "2015-09-13",
       "activity": 17
     }
