@@ -13,7 +13,7 @@
       "banned": true,
       "pack": "mensual",
       "role": "daddy",
-      "status": "activo",
+      "status": 1000,
       "date": "2015-09-13",
       "activity": 17
     }, 
@@ -30,7 +30,7 @@
       "banned": false,
       "pack": "trimestral",
       "role": "daddy",
-      "status": "inactivo",
+      "status": 900,
       "date": "2015-09-13",
       "activity": 17
     } , 
@@ -47,7 +47,7 @@
       "banned": false,
       "pack": "trimestral",
       "role": "daddy",
-      "status": "inactivo",
+      "status": 900,
       "date": "2015-09-13",
       "activity": 17
     }
