@@ -10,11 +10,25 @@
         "name": "España",
         "city": "Madrid"
       },
-      "banned": "1",
-      "pack": "30",
-      "role": "14",
-      "status": "1000",
-      "date": "2015-09-13",
+      "reference": {
+        "WC6DF2": [
+          {
+            "id": 420,
+            "name": "Michael",
+            "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+          },
+          {
+            "id": 400,
+            "name": "Lindsay",
+            "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
+          }
+        ]
+      },
+      "banned": "0",
+      "pack": "",
+      "role": "21",
+      "status": "100",
+      "date": "2020-05-13",
       "activity": "17"
     },
     {
@@ -31,7 +45,7 @@
       "pack": "90",
       "role": "7",
       "status": "500",
-      "date": "2015-09-13",
+      "date": "2020-05-1",
       "activity": "17"
     } ,
     {
@@ -48,7 +62,7 @@
       "pack": "150",
       "role": "7",
       "status": "500",
-      "date": "2015-09-13",
+      "date": "2020-05-13",
       "activity": "17"
     },
     {
@@ -65,7 +79,7 @@
       "pack": "120",
       "role": "7",
       "status": "1000",
-      "date": "2015-09-13",
+      "date": "2020-05-5",
       "activity": "17"
     }
   ]
