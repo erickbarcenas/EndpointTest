@@ -10,8 +10,8 @@
         "name": "España",
         "city": "Madrid"
       },
-      "reference": {
-        "WC6DF2": [
+      "reference": "WC6DF2",
+      "references": [
           {
             "id": 420,
             "name": "Michael",
@@ -22,8 +22,7 @@
             "name": "Lindsay",
             "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
           }
-        ]
-      },
+        ],
       "banned": "0",
       "pack": "",
       "role": "21",
