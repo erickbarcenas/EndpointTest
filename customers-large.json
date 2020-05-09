@@ -13,8 +13,8 @@
       "reference": "WC6DF2",
       "references": [
           {
-            "id": 420,
-            "name": "Michael",
+            "id": 1,
+            "name": "Kcire",
             "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
           },
           {
@@ -32,8 +32,8 @@
     },
     {
       "id": 1,
-      "name": "Erick",
-      "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg?size=32x32",
+      "name": "Kcire",
+      "imagePerfil": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
       "yearsOld": "21",
       "gender": "5",
       "country": {
