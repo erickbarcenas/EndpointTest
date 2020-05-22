@@ -13,17 +13,19 @@
         
       "banned": true,
       "pack": "mensual",
+        "packsHistory": {
+        "month": {"items": "1",
+            "date":"22/05/2020"},
+        "triMonth": {"items": "2",
+            "date":"22/04/2019"},
+        "ghost": {"items": "3",
+            "date":"22/01/2020"},
+    }
       "role": "daddy",
       "status": "activo",
       "date": "2015-09-13",
       "activity": 17
     }, 
-         { "id": 1111,
-            "mensual": "1",
-            "trimestral": "0",
-            "ghost": "1",
-            "parentId": "1000",
-          },
       {
       "id": 1,
       "name": "Erick",
