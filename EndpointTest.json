@@ -10,6 +10,7 @@
         "name": "México",
         "city": "Guadalajara"
       },
+        
       "banned": true,
       "pack": "mensual",
       "role": "daddy",
@@ -17,6 +18,12 @@
       "date": "2015-09-13",
       "activity": 17
     }, 
+         { "id": 1111,
+            'mensual': '1',
+            'trimestral': 0',
+            'ghost': 1,
+             'parentId': 1000,
+          },
       {
       "id": 1,
       "name": "Erick",
